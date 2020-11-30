@@ -15,7 +15,7 @@ function start() {
             }
             ceil.style.top = '7%';
             setTimeout(() => ceil.style.top = '40%', settings.hideTime);
-        }, settings.revivaTime);
+        }, settings.revivalTime);
     }
 }
 
