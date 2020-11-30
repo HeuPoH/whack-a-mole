@@ -1,4 +1,4 @@
 export const settings = {
-    revivaTime: 2000,
+    revivalTime: 2000,
     hideTime: 1000
 }
