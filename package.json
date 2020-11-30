@@ -1,0 +1,14 @@
+{
+  "name": "whack-a-mole",
+  "version": "1.0.0",
+  "description": "online game whack a mole for PC",
+  "main": "main.js",
+
+  "keywords": [
+    "js",
+    "game",
+    "whack-a-mole"
+  ],
+  "author": "Knyazev V",
+  "license": "ISC"
+}
